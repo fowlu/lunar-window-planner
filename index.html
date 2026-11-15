@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Lunar Window | South Pole Mission Planner</title>
+  <meta name="description" content="Compare lunar south-pole landing sites and touchdown times with NASA terrain and ephemerides.">
+  <link rel="stylesheet" href="lunar-style.css">
+</head>
+<body>
+<a class="skip" href="#planner">Skip to comparison</a>
+<main>
+  <header class="masthead">
+    <a class="brand" href="#intro"><span aria-hidden="true">◒</span> Lunar Window</a>
+    <nav aria-label="Project"><a href="#planner">Planner</a><a href="#evidenceTitle">NASA data</a><button id="motionToggle" type="button" hidden>Pause motion</button></nav>
+  </header>
+  <section class="hero" id="intro" aria-labelledby="heroTitle">
+    <div class="hero-copy">
+      <p class="context">NASA Space Apps Challenge <span aria-hidden="true">/</span> Lunar Landing Site Navigator</p>
+      <h1 id="heroTitle">When can a lander see Earth?</h1>
+      <p class="lead">Compare lunar touchdown sites for a clear view of Earth and enough time in sunlight. See what changes when a crater rim enters the picture.</p>
+      <div class="hero-actions"><a id="openDemo" class="button primary" href="#planner">Explore the ranking demo</a><a href="#confidence">How accurate is this?</a></div>
+      <p id="demoSummary" class="hero-result"></p>
+    </div>
+    <figure class="hero-scene">
+      <div class="hero-media"><img src="artemis-lunar-flyby.jpg" width="1600" height="1066" fetchpriority="high" alt="Low-angle sunlight reveals craters along the Moon’s day-night boundary in a photograph from Artemis II"></div>
+      <figcaption><a href="https://science.nasa.gov/feature/artemis-ii-preliminary-lunar-science-report/" target="_blank" rel="noopener">Lunar flyby · NASA / Artemis II</a></figcaption>
+    </figure>
+  </section>
+
+  <section class="planner" id="planner" aria-labelledby="decisionHeader">
+    <div class="section-title"><div><h2 id="decisionHeader">Compare landing sites</h2><p>Test how terrain, touchdown time and antenna height change the landing decision.</p></div><button id="resetDemo" type="button">Reset demo</button></div>
+    <section class="panel setup" id="controls" aria-label="Mission setup">
+      <div class="fields">
+        <label for="site">Site A<select id="site"></select></label>
+        <label for="compareSite">Site B<select id="compareSite"></select></label>
+        <label for="day">Touchdown (UTC)<input id="day" type="datetime-local" step="60" required></label>
+        <label for="end">Window end (UTC)<input id="end" type="datetime-local" step="60" required></label>
+        <label for="windowHours">Duration (hours)<input id="windowHours" type="number" min="1" max="720" step="any" value="24" required></label>
+        <label for="height">Earth antenna<select id="height"><option value="2">2 m above ground</option><option value="5">5 m above ground</option></select></label>
+      </div>
+      <details id="customDetails"><summary>Custom coordinates and date coverage <span class="screening">Screening grade</span></summary>
+        <form id="coordinates">
+          <label for="latitude">Latitude (°)<input id="latitude" type="number" step="any" min="-89.99" max="-84" required aria-describedby="coordNote"></label>
+          <label for="longitude">Longitude (° E)<input id="longitude" type="number" step="any" min="-180" max="180" required aria-describedby="coordNote"></label>
+          <button id="applyCoords" type="submit">Use as site A</button>
+          <p id="coordNote" class="caption" role="status"></p>
+        </form>
+        <div class="coverage"><p id="coverage" class="caption"></p><button id="month" type="button">Set 30-day window</button></div>
+      </details>
+      <p id="inputNote" class="caption warn" role="status"></p>
+      <p id="customWarning" class="caption warn" hidden>Custom terrain uses a 240 m grid and 1° bearings. At 50 km, those rays are about 870 m apart. Narrow ridges can fall between them.</p>
+    </section>
+
+    <div class="decision-grid">
+      <section class="panel comparison" aria-labelledby="result-title">
+        <div class="result-head">
+          <div><h3 id="result-title">Mission results</h3><p id="scenario" class="caption"></p></div>
+          <div role="group" aria-label="Horizon model" class="segmented">
+            <button id="terrainMode" type="button" aria-pressed="true">LOLA terrain</button><button id="flatMode" type="button" aria-pressed="false">Flat reference</button>
+          </div>
+        </div>
+        <p id="verdict" class="decision" aria-live="polite"></p>
+        <p id="reversal" class="reversal"></p>
+        <details id="antennaSensitivity" class="sensitivity" open>
+          <summary>Antenna-height sensitivity</summary>
+          <p class="caption">Longest modeled Earth blackout at the same landing time. The terrain grid limits what these changes can tell us about mast placement.</p>
+          <div id="heightResults"></div>
+        </details>
+        <div id="cards" class="split"></div>
+        <div class="timeline-legend"><span><i class="swatch visible"></i>Clear</span><span><i class="swatch terrain-blocked"></i>Blocked</span><span><i class="swatch unknown"></i>Uncertain</span><span>Click a track to inspect that site and time.</span></div>
+        <p id="comparisonTime" class="caption"></p>
+        <button id="download" class="quiet" type="button">Export comparison CSV</button>
+      </section>
+      <aside class="panel advisor" aria-labelledby="advisorTitle">
+        <h3 id="advisorTitle">Mission questions</h3>
+        <p class="caption">The planner ranks the evaluated options using fixed rules and your mission priorities.</p>
+        <label for="priority">Mission priority<select id="priority"><option value="blackout">Shortest Earth blackout</option><option value="earliest">Earliest Earth sightline</option><option value="sunlight">Most potential sunlight</option></select></label>
+        <label for="deadline">First report deadline <small>(hours after touchdown, optional)</small><input id="deadline" type="number" min="0" step="any" placeholder="Any time within the window" aria-describedby="deadlineNote"></label>
+        <p class="caption" id="deadlineNote">This tests when a direct Earth sightline opens.</p>
+        <details><summary>Compare nearby touchdown times</summary>
+          <p class="caption">Evaluates both sites at the selected start and 6, 12 and 24 hours later where NASA data cover the full window.</p>
+          <div id="alternates"></div>
+        </details>
+        <form id="advisorForm">
+          <label for="question">Quick question <textarea id="question" rows="2" maxlength="300" placeholder="Earth within 2 hours?"></textarea></label>
+          <p class="caption">Try a deadline such as “within two hours” or an antenna height of 2 m or 5 m.</p>
+          <div class="examples"><button type="button" id="askTwo">Earth within 2 hours?</button><button type="button" id="askFive">What if the antenna is 5 m?</button></div>
+          <label id="localModelOption" class="local-model" hidden><input type="checkbox" id="localModel"> Add optional local Ollama commentary</label>
+          <button type="submit" class="primary">Evaluate question</button>
+        </form>
+        <p id="advisorStatus" class="caption" role="status">The comparison uses modeled results.</p>
+        <p id="questionInterpretation" class="caption"></p>
+        <div id="advisorAnswer" aria-live="polite"></div>
+      </aside>
+    </div>
+  </section>
+
+  <section class="inspector" aria-labelledby="inspectTitle">
+    <div class="section-title"><div><h2 id="inspectTitle">See what blocks the view</h2><p>Use one clock to inspect the timeline, skyline and terrain.</p></div><label for="inspectSite">Look from<select id="inspectSite"></select></label></div>
+    <div class="panel clock-panel">
+      <div class="clock-head"><label for="cursor">Time after touchdown</label><output id="time" for="cursor"></output></div>
+      <input id="cursor" type="range" min="0" max="1440" step="1" value="720">
+      <div class="clock-actions"><button id="play" type="button">Play window</button><button id="jump" type="button">Find terrain blockage</button></div>
+      <div id="missionTimeline"></div>
+    </div>
+    <div class="inspect-grid">
+      <section class="panel horizon-panel" aria-labelledby="horizon-title">
+        <h3 id="horizon-title">The view from the lander</h3>
+        <p class="caption">Imagine turning all the way around. Left to right shows the directions you face. Up shows how high to look.</p>
+        <div id="skyReadout" class="sky-readout"></div>
+        <canvas id="visualizer-canvas" role="img" aria-label="Skyline and the positions of the Sun and Earth around the lander. See the text above for their current visibility."></canvas>
+        <div class="timeline-legend horizon-legend"><span class="terrain-key">Ridge line</span><span class="sun-key">Sun</span><span class="earth-key">Earth</span><span>A dim trail marks a blocked or uncertain view.</span></div>
+        <p class="public-note">A dot above the ridge usually means a clear view. Read the status above for cases with uncertain terrain.</p>
+      </section>
+      <section class="panel cross-panel" aria-labelledby="profileTitle">
+        <h3 id="profileTitle">What’s between the lander and Earth?</h3>
+        <p class="caption">A side view looking toward Earth. The blue line is where the antenna would point. A ridge that crosses it blocks the view.</p>
+        <p id="profileSummary" class="public-note"></p>
+        <canvas id="profile" role="img" aria-label="Side view of the terrain and the Earth sightline"></canvas>
+        <details><summary>Technical readout</summary>
+          <p id="profileText" class="caption"></p>
+          <canvas id="clearanceChart" role="img" aria-label="Earth and Sun clearance above the selected skyline over time"></canvas>
+          <p class="caption">Earth is blue and Sun is amber. Above the dashed line means above the modeled skyline. The white line marks the selected time.</p>
+        </details>
+      </section>
+    </div>
+    <section class="panel metric-panel" aria-labelledby="metrics-title">
+      <h3 id="metrics-title">Visibility and shadow at this site</h3><div id="missionMetrics"></div><div id="missionAlerts" aria-live="polite"></div>
+    </section>
+  </section>
+
+  <section class="panel evidence" aria-labelledby="evidenceTitle">
+    <h2 id="evidenceTitle">NASA data behind the decision</h2>
+    <div class="evidence-grid">
+      <div><h3>Where the ridges are</h3><p>LRO LOLA provides elevation grids. The presets combine 80 m and 240 m data. Custom locations use the 240 m grid.</p></div>
+      <div><h3>Where Earth and Sun are</h3><p>JPL Horizons provides positions every 10 minutes. The planner checks whether each body clears the ridge line.</p></div>
+      <div><h3>What a clear view means</h3><p>Earth visibility is geometric line of sight. Sun visibility is potential solar exposure. Radio and power performance require separate engineering models.</p></div>
+    </div>
+    <section class="confidence" id="confidence" aria-labelledby="confidenceTitle">
+      <h3 id="confidenceTitle">How accurate is this?</h3>
+      <p id="validationSummary"></p>
+      <p>The Horizons check holds terrain fixed. Running the same 2 m demo coordinates through the custom grid and ray settings changed Malapert’s outage from 20.48 to 11.53 hours, and de Gerlache’s from 7.66 to 8.23 hours. The terrain settings matter far more than the direction calculation in this case.</p>
+      <p id="dailySensitivity"></p>
+      <details class="method"><summary>See the tests and their limits</summary>
+        <div id="validationTable"></div>
+        <p>Each row covers 14–26 November 2026 UTC at ten-minute cadence. Malapert at 2 m is the reference observer for the body-vector build. De Gerlache uses separately queried observer coordinates. All queries use the same JPL ephemeris.</p>
+        <p id="limbSummary"></p>
+        <p>The 30-minute tie rule is a comparison convention, equal to three ephemeris steps. Use the height and terrain checks to gauge sensitivity beyond that rule.</p>
+      </details>
+    </section>
+    <details class="method"><summary>Method, limitations and attribution</summary>
+      <p id="sourceStats"></p>
+      <p>The solar collection point stays at 2 m. Near ties use the dataset’s 30-minute screening threshold. That threshold is a decision rule. The 240 m grid shifted one original Malapert outage estimate by roughly nine hours, and terrain cells cannot resolve meters of antenna movement.</p>
+      <p>The model uses body centers. Receiver availability, radio link margin, irradiance, panel orientation and battery performance require separate estimates.</p>
+      <div id="sourceLinks" class="links"></div>
+    </details>
+  </section>
+  <section class="project-purpose" id="about" aria-labelledby="aboutTitle">
+    <h2 id="aboutTitle">From a skyline to a mission decision</h2>
+    <div class="evidence-grid">
+      <article><h3>Plan the first check-in</h3><p>The 17 November case misses a two-hour check-in at both sites with a 2 m antenna and terrain enabled. The first modeled Earth view opens about 7.7 hours after touchdown at de Gerlache and 20.5 hours at Malapert. A communications planner could test a later touchdown or plan relay coverage.</p></article>
+      <article><h3>Check the battery and relay separately</h3><p>On the same day, Shackleton Rim has potential solar exposure throughout the model window while Earth stays hidden. Engineers can use the longest shadow spell to size energy storage and the Earth windows to check when they need a relay.</p></article>
+      <article><h3>Extend the study</h3><p>This bundle compares five presets over 36 days. To study seasonal changes, extend the Horizons inputs across several lunar months and recompute visibility using the same terrain, then add finer local elevation data where decisions change.</p></article>
+    </div>
+    <p class="project-links"><strong>Lunar Window project team</strong><br><a href="README.md" target="_blank" rel="noopener">README and source guide</a> · <a href="CREDITS.md" target="_blank" rel="noopener">Data and image credits</a></p>
+  </section>
+</main>
+<script src="data.js"></script>
+<script src="validation-data.js"></script>
+<script src="decision.js"></script>
+<script src="advisor-ui.js"></script>
+<script src="app.js"></script>
+<script src="lunar-motion.js"></script>
+</body>
+</html>

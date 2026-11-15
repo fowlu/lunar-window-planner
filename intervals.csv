@@ -1,0 +1,1583 @@
+site,mode,target,start_utc,end_utc,status,duration_min,antenna_m,panel_m,provenance
+malapert,flat,earth,2026-11-14T00:00:00+00:00,2026-11-14T14:35:38+00:00,below-tangent,875.641,2,2,JPL Horizons
+malapert,flat,earth,2026-11-14T14:35:38+00:00,2026-11-15T00:00:00+00:00,visible,564.359,2,2,JPL Horizons
+malapert,flat,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-02T00:00:00+00:00,2026-12-02T16:22:44+00:00,visible,982.735,2,2,JPL Horizons
+malapert,flat,earth,2026-12-02T16:22:44+00:00,2026-12-03T00:00:00+00:00,below-tangent,457.265,2,2,JPL Horizons
+malapert,flat,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-11T00:00:00+00:00,2026-12-11T16:30:53+00:00,below-tangent,990.887,2,2,JPL Horizons
+malapert,flat,earth,2026-12-11T16:30:53+00:00,2026-12-12T00:00:00+00:00,visible,449.113,2,2,JPL Horizons
+malapert,flat,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-15T00:00:00+00:00,2026-11-15T03:37:01+00:00,below-tangent,217.026,2,2,JPL Horizons
+malapert,flat,sun,2026-11-15T03:37:01+00:00,2026-11-16T00:00:00+00:00,visible,1222.974,2,2,JPL Horizons
+malapert,flat,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-03T00:00:00+00:00,2026-12-03T14:23:00+00:00,visible,863.011,2,2,JPL Horizons
+malapert,flat,sun,2026-12-03T14:23:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,576.989,2,2,JPL Horizons
+malapert,flat,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-14T00:00:00+00:00,2026-12-14T23:31:11+00:00,below-tangent,1411.186,2,2,JPL Horizons
+malapert,flat,sun,2026-12-14T23:31:11+00:00,2026-12-15T00:00:00+00:00,visible,28.814,2,2,JPL Horizons
+malapert,flat,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,flat,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+malapert,terrain,earth,2026-11-14T00:00:00+00:00,2026-11-14T14:35:38+00:00,below-tangent,875.641,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-14T14:35:38+00:00,2026-11-15T00:00:00+00:00,terrain-blocked,564.359,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-17T00:00:00+00:00,2026-11-17T20:28:44+00:00,terrain-blocked,1228.734,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-17T20:28:44+00:00,2026-11-18T00:00:00+00:00,visible,211.266,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-30T00:00:00+00:00,2026-11-30T02:11:20+00:00,visible,131.341,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-30T02:11:20+00:00,2026-12-01T00:00:00+00:00,terrain-blocked,1308.659,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-02T00:00:00+00:00,2026-12-02T16:22:44+00:00,terrain-blocked,982.735,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-02T16:22:44+00:00,2026-12-03T00:00:00+00:00,below-tangent,457.265,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-11T00:00:00+00:00,2026-12-11T16:30:53+00:00,below-tangent,990.887,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-11T16:30:53+00:00,2026-12-12T00:00:00+00:00,terrain-blocked,449.113,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-14T00:00:00+00:00,2026-12-14T22:08:03+00:00,terrain-blocked,1328.051,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-14T22:08:03+00:00,2026-12-15T00:00:00+00:00,visible,111.949,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-14T00:00:00+00:00,2026-11-14T12:35:17+00:00,visible-below-tangent,755.294,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-14T12:35:17+00:00,2026-11-15T00:00:00+00:00,below-tangent,684.706,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-15T00:00:00+00:00,2026-11-15T03:37:01+00:00,below-tangent,217.026,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-15T03:37:01+00:00,2026-11-16T00:00:00+00:00,terrain-blocked,1222.974,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-20T00:00:00+00:00,2026-11-20T05:16:56+00:00,terrain-blocked,316.938,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-20T05:16:56+00:00,2026-11-21T00:00:00+00:00,visible,1123.062,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-30T00:00:00+00:00,2026-11-30T04:23:03+00:00,visible,263.052,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-30T04:23:03+00:00,2026-12-01T00:00:00+00:00,terrain-blocked,1176.948,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-02T00:00:00+00:00,2026-12-02T14:45:19+00:00,terrain-blocked,885.33,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-02T14:45:19+00:00,2026-12-03T00:00:00+00:00,visible,554.67,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-03T00:00:00+00:00,2026-12-03T14:23:00+00:00,visible,863.011,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-03T14:23:00+00:00,2026-12-04T00:00:00+00:00,visible-below-tangent,576.989,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,visible-below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,visible-below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,visible-below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,visible-below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,visible-below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,visible-below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,visible-below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,visible-below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,visible-below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible-below-tangent,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-14T00:00:00+00:00,2026-12-14T01:24:48+00:00,visible-below-tangent,84.805,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-14T01:24:48+00:00,2026-12-14T23:31:11+00:00,below-tangent,1326.381,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-14T23:31:11+00:00,2026-12-15T00:00:00+00:00,terrain-blocked,28.814,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+malapert,flat,earth,2026-11-14T00:00:00+00:00,2026-11-14T14:35:38+00:00,below-tangent,875.642,5,2,JPL Horizons
+malapert,flat,earth,2026-11-14T14:35:38+00:00,2026-11-15T00:00:00+00:00,visible,564.358,5,2,JPL Horizons
+malapert,flat,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-02T00:00:00+00:00,2026-12-02T16:22:44+00:00,visible,982.735,5,2,JPL Horizons
+malapert,flat,earth,2026-12-02T16:22:44+00:00,2026-12-03T00:00:00+00:00,below-tangent,457.265,5,2,JPL Horizons
+malapert,flat,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-11T00:00:00+00:00,2026-12-11T16:30:53+00:00,below-tangent,990.887,5,2,JPL Horizons
+malapert,flat,earth,2026-12-11T16:30:53+00:00,2026-12-12T00:00:00+00:00,visible,449.113,5,2,JPL Horizons
+malapert,flat,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-15T00:00:00+00:00,2026-11-15T03:37:01+00:00,below-tangent,217.026,5,2,JPL Horizons
+malapert,flat,sun,2026-11-15T03:37:01+00:00,2026-11-16T00:00:00+00:00,visible,1222.974,5,2,JPL Horizons
+malapert,flat,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-03T00:00:00+00:00,2026-12-03T14:23:00+00:00,visible,863.011,5,2,JPL Horizons
+malapert,flat,sun,2026-12-03T14:23:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,576.989,5,2,JPL Horizons
+malapert,flat,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-14T00:00:00+00:00,2026-12-14T23:31:11+00:00,below-tangent,1411.186,5,2,JPL Horizons
+malapert,flat,sun,2026-12-14T23:31:11+00:00,2026-12-15T00:00:00+00:00,visible,28.814,5,2,JPL Horizons
+malapert,flat,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,flat,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+malapert,terrain,earth,2026-11-14T00:00:00+00:00,2026-11-14T14:35:38+00:00,below-tangent,875.642,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-14T14:35:38+00:00,2026-11-15T00:00:00+00:00,terrain-blocked,564.358,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-17T00:00:00+00:00,2026-11-17T10:53:28+00:00,terrain-blocked,653.471,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-17T10:53:28+00:00,2026-11-18T00:00:00+00:00,visible,786.529,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-30T00:00:00+00:00,2026-11-30T11:26:19+00:00,visible,686.326,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-11-30T11:26:19+00:00,2026-12-01T00:00:00+00:00,terrain-blocked,753.674,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-02T00:00:00+00:00,2026-12-02T16:22:44+00:00,terrain-blocked,982.735,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-02T16:22:44+00:00,2026-12-03T00:00:00+00:00,below-tangent,457.265,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-11T00:00:00+00:00,2026-12-11T16:30:53+00:00,below-tangent,990.887,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-11T16:30:53+00:00,2026-12-12T00:00:00+00:00,terrain-blocked,449.113,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-14T00:00:00+00:00,2026-12-14T12:17:30+00:00,terrain-blocked,737.505,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-14T12:17:30+00:00,2026-12-15T00:00:00+00:00,visible,702.495,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-14T00:00:00+00:00,2026-11-14T12:35:17+00:00,visible-below-tangent,755.294,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-14T12:35:17+00:00,2026-11-15T00:00:00+00:00,below-tangent,684.706,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-15T00:00:00+00:00,2026-11-15T03:37:01+00:00,below-tangent,217.026,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-15T03:37:01+00:00,2026-11-16T00:00:00+00:00,terrain-blocked,1222.974,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-20T00:00:00+00:00,2026-11-20T05:16:56+00:00,terrain-blocked,316.938,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-20T05:16:56+00:00,2026-11-21T00:00:00+00:00,visible,1123.062,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-30T00:00:00+00:00,2026-11-30T04:23:03+00:00,visible,263.052,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-11-30T04:23:03+00:00,2026-12-01T00:00:00+00:00,terrain-blocked,1176.948,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-02T00:00:00+00:00,2026-12-02T14:45:19+00:00,terrain-blocked,885.33,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-02T14:45:19+00:00,2026-12-03T00:00:00+00:00,visible,554.67,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-03T00:00:00+00:00,2026-12-03T14:23:00+00:00,visible,863.011,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-03T14:23:00+00:00,2026-12-04T00:00:00+00:00,visible-below-tangent,576.989,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,visible-below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,visible-below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,visible-below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,visible-below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,visible-below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,visible-below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,visible-below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,visible-below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,visible-below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible-below-tangent,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-14T00:00:00+00:00,2026-12-14T01:24:48+00:00,visible-below-tangent,84.805,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-14T01:24:48+00:00,2026-12-14T23:31:11+00:00,below-tangent,1326.381,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-14T23:31:11+00:00,2026-12-15T00:00:00+00:00,terrain-blocked,28.814,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+malapert,terrain,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+gerlache,flat,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-17T00:00:00+00:00,2026-11-17T01:06:57+00:00,below-tangent,66.951,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-17T01:06:57+00:00,2026-11-18T00:00:00+00:00,visible,1373.049,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-30T00:00:00+00:00,2026-11-30T08:11:05+00:00,visible,491.087,2,2,JPL Horizons
+gerlache,flat,earth,2026-11-30T08:11:05+00:00,2026-12-01T00:00:00+00:00,below-tangent,948.913,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-14T00:00:00+00:00,2026-12-14T03:13:42+00:00,below-tangent,193.711,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-14T03:13:42+00:00,2026-12-15T00:00:00+00:00,visible,1246.289,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-17T00:00:00+00:00,2026-11-17T06:42:53+00:00,below-tangent,402.9,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-17T06:42:53+00:00,2026-11-18T00:00:00+00:00,visible,1037.1,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-11T00:00:00+00:00,2026-12-11T11:44:55+00:00,visible,704.933,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-11T11:44:55+00:00,2026-12-12T00:00:00+00:00,below-tangent,735.067,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-17T00:00:00+00:00,2026-12-17T22:36:03+00:00,below-tangent,1356.065,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-17T22:36:03+00:00,2026-12-18T00:00:00+00:00,visible,83.935,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,flat,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+gerlache,terrain,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-17T00:00:00+00:00,2026-11-17T01:06:57+00:00,below-tangent,66.951,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-17T01:06:57+00:00,2026-11-17T07:39:33+00:00,terrain-blocked,392.603,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-17T07:39:33+00:00,2026-11-18T00:00:00+00:00,visible,980.446,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-29T00:00:00+00:00,2026-11-29T21:51:07+00:00,visible,1311.132,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-29T21:51:07+00:00,2026-11-30T00:00:00+00:00,terrain-blocked,128.868,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-30T00:00:00+00:00,2026-11-30T08:11:05+00:00,terrain-blocked,491.087,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-30T08:11:05+00:00,2026-12-01T00:00:00+00:00,below-tangent,948.913,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-14T00:00:00+00:00,2026-12-14T03:13:42+00:00,below-tangent,193.711,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-14T03:13:42+00:00,2026-12-14T09:52:02+00:00,terrain-blocked,398.33,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-14T09:52:02+00:00,2026-12-15T00:00:00+00:00,visible,847.959,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-17T00:00:00+00:00,2026-11-17T06:42:53+00:00,below-tangent,402.9,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-17T06:42:53+00:00,2026-11-18T00:00:00+00:00,terrain-blocked,1037.1,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-21T00:00:00+00:00,2026-11-21T08:36:21+00:00,terrain-blocked,516.365,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-21T08:36:21+00:00,2026-11-22T00:00:00+00:00,visible,923.635,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-04T00:00:00+00:00,2026-12-04T15:51:25+00:00,visible,951.423,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-04T15:51:25+00:00,2026-12-05T00:00:00+00:00,terrain-blocked,488.577,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-11T00:00:00+00:00,2026-12-11T11:44:55+00:00,terrain-blocked,704.933,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-11T11:44:55+00:00,2026-12-12T00:00:00+00:00,below-tangent,735.067,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-17T00:00:00+00:00,2026-12-17T22:36:03+00:00,below-tangent,1356.065,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-17T22:36:03+00:00,2026-12-18T00:00:00+00:00,terrain-blocked,83.935,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+gerlache,flat,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-17T00:00:00+00:00,2026-11-17T01:06:57+00:00,below-tangent,66.952,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-17T01:06:57+00:00,2026-11-18T00:00:00+00:00,visible,1373.048,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-30T00:00:00+00:00,2026-11-30T08:11:05+00:00,visible,491.086,5,2,JPL Horizons
+gerlache,flat,earth,2026-11-30T08:11:05+00:00,2026-12-01T00:00:00+00:00,below-tangent,948.914,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-14T00:00:00+00:00,2026-12-14T03:13:42+00:00,below-tangent,193.712,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-14T03:13:42+00:00,2026-12-15T00:00:00+00:00,visible,1246.288,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-17T00:00:00+00:00,2026-11-17T06:42:53+00:00,below-tangent,402.9,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-17T06:42:53+00:00,2026-11-18T00:00:00+00:00,visible,1037.1,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-11T00:00:00+00:00,2026-12-11T11:44:55+00:00,visible,704.933,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-11T11:44:55+00:00,2026-12-12T00:00:00+00:00,below-tangent,735.067,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-17T00:00:00+00:00,2026-12-17T22:36:03+00:00,below-tangent,1356.065,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-17T22:36:03+00:00,2026-12-18T00:00:00+00:00,visible,83.935,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,flat,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+gerlache,terrain,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-17T00:00:00+00:00,2026-11-17T01:06:57+00:00,below-tangent,66.952,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-17T01:06:57+00:00,2026-11-17T07:35:48+00:00,terrain-blocked,388.852,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-17T07:35:48+00:00,2026-11-18T00:00:00+00:00,visible,984.197,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-29T00:00:00+00:00,2026-11-29T21:53:15+00:00,visible,1313.252,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-29T21:53:15+00:00,2026-11-30T00:00:00+00:00,terrain-blocked,126.748,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-30T00:00:00+00:00,2026-11-30T08:11:05+00:00,terrain-blocked,491.086,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-11-30T08:11:05+00:00,2026-12-01T00:00:00+00:00,below-tangent,948.914,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-14T00:00:00+00:00,2026-12-14T03:13:42+00:00,below-tangent,193.712,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-14T03:13:42+00:00,2026-12-14T09:48:12+00:00,terrain-blocked,394.504,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-14T09:48:12+00:00,2026-12-15T00:00:00+00:00,visible,851.784,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-17T00:00:00+00:00,2026-11-17T06:42:53+00:00,below-tangent,402.9,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-17T06:42:53+00:00,2026-11-18T00:00:00+00:00,terrain-blocked,1037.1,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-21T00:00:00+00:00,2026-11-21T08:36:21+00:00,terrain-blocked,516.365,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-21T08:36:21+00:00,2026-11-22T00:00:00+00:00,visible,923.635,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-04T00:00:00+00:00,2026-12-04T15:51:25+00:00,visible,951.423,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-04T15:51:25+00:00,2026-12-05T00:00:00+00:00,terrain-blocked,488.577,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-11T00:00:00+00:00,2026-12-11T11:44:55+00:00,terrain-blocked,704.933,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-11T11:44:55+00:00,2026-12-12T00:00:00+00:00,below-tangent,735.067,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-17T00:00:00+00:00,2026-12-17T22:36:03+00:00,below-tangent,1356.065,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-17T22:36:03+00:00,2026-12-18T00:00:00+00:00,terrain-blocked,83.935,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+gerlache,terrain,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,flat,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-17T00:00:00+00:00,2026-11-17T20:27:51+00:00,below-tangent,1227.85,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-17T20:27:51+00:00,2026-11-18T00:00:00+00:00,visible,212.15,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-29T00:00:00+00:00,2026-11-29T20:03:27+00:00,visible,1203.451,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-29T20:03:27+00:00,2026-11-30T00:00:00+00:00,below-tangent,236.549,2,2,JPL Horizons
+shackleton,flat,earth,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-14T00:00:00+00:00,2026-12-14T22:26:01+00:00,below-tangent,1346.025,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-14T22:26:01+00:00,2026-12-15T00:00:00+00:00,visible,93.975,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,flat,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+shackleton,terrain,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-17T00:00:00+00:00,2026-11-17T20:27:51+00:00,below-tangent,1227.85,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-17T20:27:51+00:00,2026-11-18T00:00:00+00:00,terrain-blocked,212.15,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-29T00:00:00+00:00,2026-11-29T20:03:27+00:00,terrain-blocked,1203.451,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-29T20:03:27+00:00,2026-11-30T00:00:00+00:00,below-tangent,236.549,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-14T00:00:00+00:00,2026-12-14T22:26:01+00:00,below-tangent,1346.025,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-14T22:26:01+00:00,2026-12-15T00:00:00+00:00,terrain-blocked,93.975,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-20T00:00:00+00:00,2026-11-20T21:15:43+00:00,visible,1275.72,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-20T21:15:43+00:00,2026-11-21T00:00:00+00:00,terrain-blocked,164.28,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-12T00:00:00+00:00,2026-12-12T00:59:31+00:00,terrain-blocked,59.533,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-12T00:59:31+00:00,2026-12-13T00:00:00+00:00,visible,1380.467,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+shackleton,flat,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-17T00:00:00+00:00,2026-11-17T20:27:51+00:00,below-tangent,1227.851,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-17T20:27:51+00:00,2026-11-18T00:00:00+00:00,visible,212.149,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-29T00:00:00+00:00,2026-11-29T20:03:27+00:00,visible,1203.451,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-29T20:03:27+00:00,2026-11-30T00:00:00+00:00,below-tangent,236.549,5,2,JPL Horizons
+shackleton,flat,earth,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-14T00:00:00+00:00,2026-12-14T22:26:01+00:00,below-tangent,1346.025,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-14T22:26:01+00:00,2026-12-15T00:00:00+00:00,visible,93.975,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,flat,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+shackleton,terrain,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-17T00:00:00+00:00,2026-11-17T20:27:51+00:00,below-tangent,1227.851,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-17T20:27:51+00:00,2026-11-18T00:00:00+00:00,terrain-blocked,212.149,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-29T00:00:00+00:00,2026-11-29T20:03:27+00:00,terrain-blocked,1203.451,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-29T20:03:27+00:00,2026-11-30T00:00:00+00:00,below-tangent,236.549,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-14T00:00:00+00:00,2026-12-14T22:26:01+00:00,below-tangent,1346.025,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-14T22:26:01+00:00,2026-12-15T00:00:00+00:00,terrain-blocked,93.975,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-20T00:00:00+00:00,2026-11-20T21:15:43+00:00,visible,1275.72,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-20T21:15:43+00:00,2026-11-21T00:00:00+00:00,terrain-blocked,164.28,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-12T00:00:00+00:00,2026-12-12T00:59:31+00:00,terrain-blocked,59.533,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-12T00:59:31+00:00,2026-12-13T00:00:00+00:00,visible,1380.467,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+shackleton,terrain,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,flat,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-11-17T00:00:00+00:00,2026-11-17T22:39:02+00:00,below-tangent,1359.038,2,2,JPL Horizons
+connecting,flat,earth,2026-11-17T22:39:02+00:00,2026-11-18T00:00:00+00:00,visible,80.962,2,2,JPL Horizons
+connecting,flat,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-11-29T00:00:00+00:00,2026-11-29T17:06:42+00:00,visible,1026.703,2,2,JPL Horizons
+connecting,flat,earth,2026-11-29T17:06:42+00:00,2026-11-30T00:00:00+00:00,below-tangent,413.297,2,2,JPL Horizons
+connecting,flat,earth,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-15T00:00:00+00:00,2026-12-15T00:41:29+00:00,below-tangent,41.5,2,2,JPL Horizons
+connecting,flat,earth,2026-12-15T00:41:29+00:00,2026-12-16T00:00:00+00:00,visible,1398.5,2,2,JPL Horizons
+connecting,flat,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,flat,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+connecting,terrain,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-17T00:00:00+00:00,2026-11-17T09:39:56+00:00,below-tangent,579.939,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-17T09:39:56+00:00,2026-11-17T22:39:02+00:00,visible-below-tangent,779.1,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-17T22:39:02+00:00,2026-11-18T00:00:00+00:00,visible,80.962,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-29T00:00:00+00:00,2026-11-29T17:06:42+00:00,visible,1026.703,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-29T17:06:42+00:00,2026-11-30T00:00:00+00:00,visible-below-tangent,413.297,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-30T00:00:00+00:00,2026-11-30T05:55:47+00:00,visible-below-tangent,355.8,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-30T05:55:47+00:00,2026-12-01T00:00:00+00:00,below-tangent,1084.2,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-14T00:00:00+00:00,2026-12-14T11:18:17+00:00,below-tangent,678.296,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-14T11:18:17+00:00,2026-12-15T00:00:00+00:00,visible-below-tangent,761.704,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-15T00:00:00+00:00,2026-12-15T00:41:29+00:00,visible-below-tangent,41.5,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-15T00:41:29+00:00,2026-12-16T00:00:00+00:00,visible,1398.5,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+connecting,flat,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-11-17T00:00:00+00:00,2026-11-17T22:39:02+00:00,below-tangent,1359.039,5,2,JPL Horizons
+connecting,flat,earth,2026-11-17T22:39:02+00:00,2026-11-18T00:00:00+00:00,visible,80.961,5,2,JPL Horizons
+connecting,flat,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-11-29T00:00:00+00:00,2026-11-29T17:06:42+00:00,visible,1026.703,5,2,JPL Horizons
+connecting,flat,earth,2026-11-29T17:06:42+00:00,2026-11-30T00:00:00+00:00,below-tangent,413.297,5,2,JPL Horizons
+connecting,flat,earth,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-15T00:00:00+00:00,2026-12-15T00:41:29+00:00,below-tangent,41.5,5,2,JPL Horizons
+connecting,flat,earth,2026-12-15T00:41:29+00:00,2026-12-16T00:00:00+00:00,visible,1398.5,5,2,JPL Horizons
+connecting,flat,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,flat,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+connecting,terrain,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-16T00:00:00+00:00,2026-11-16T13:08:06+00:00,below-tangent,788.116,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-16T13:08:06+00:00,2026-11-17T00:00:00+00:00,visible-below-tangent,651.884,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-17T00:00:00+00:00,2026-11-17T22:39:02+00:00,visible-below-tangent,1359.039,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-17T22:39:02+00:00,2026-11-18T00:00:00+00:00,visible,80.961,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-29T00:00:00+00:00,2026-11-29T17:06:42+00:00,visible,1026.703,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-29T17:06:42+00:00,2026-11-30T00:00:00+00:00,visible-below-tangent,413.297,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-30T00:00:00+00:00,2026-11-30T05:56:53+00:00,visible-below-tangent,356.892,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-11-30T05:56:53+00:00,2026-12-01T00:00:00+00:00,below-tangent,1083.108,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-13T00:00:00+00:00,2026-12-13T16:08:20+00:00,below-tangent,968.339,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-13T16:08:20+00:00,2026-12-14T00:00:00+00:00,visible-below-tangent,471.661,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible-below-tangent,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-15T00:00:00+00:00,2026-12-15T00:41:29+00:00,visible-below-tangent,41.5,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-15T00:41:29+00:00,2026-12-16T00:00:00+00:00,visible,1398.5,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-12T00:00:00+00:00,2026-12-13T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+connecting,terrain,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,flat,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-11-15T00:00:00+00:00,2026-11-15T01:12:57+00:00,below-tangent,72.96,2,2,JPL Horizons
+nobile,flat,earth,2026-11-15T01:12:57+00:00,2026-11-16T00:00:00+00:00,visible,1367.04,2,2,JPL Horizons
+nobile,flat,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-02T00:00:00+00:00,2026-12-02T15:34:52+00:00,visible,934.868,2,2,JPL Horizons
+nobile,flat,earth,2026-12-02T15:34:52+00:00,2026-12-03T00:00:00+00:00,below-tangent,505.132,2,2,JPL Horizons
+nobile,flat,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-12T00:00:00+00:00,2026-12-12T02:10:09+00:00,below-tangent,130.156,2,2,JPL Horizons
+nobile,flat,earth,2026-12-12T02:10:09+00:00,2026-12-13T00:00:00+00:00,visible,1309.844,2,2,JPL Horizons
+nobile,flat,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-11-30T00:00:00+00:00,2026-11-30T07:15:02+00:00,visible,435.039,2,2,JPL Horizons
+nobile,flat,sun,2026-11-30T07:15:02+00:00,2026-12-01T00:00:00+00:00,below-tangent,1004.961,2,2,JPL Horizons
+nobile,flat,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-12T00:00:00+00:00,2026-12-12T01:25:35+00:00,below-tangent,85.585,2,2,JPL Horizons
+nobile,flat,sun,2026-12-12T01:25:35+00:00,2026-12-13T00:00:00+00:00,visible,1354.415,2,2,JPL Horizons
+nobile,flat,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,flat,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons
+nobile,terrain,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-15T00:00:00+00:00,2026-11-15T01:12:57+00:00,below-tangent,72.96,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-15T01:12:57+00:00,2026-11-16T00:00:00+00:00,terrain-blocked,1367.04,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-18T00:00:00+00:00,2026-11-18T21:30:25+00:00,terrain-blocked,1290.429,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-18T21:30:25+00:00,2026-11-19T00:00:00+00:00,visible,149.571,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-27T00:00:00+00:00,2026-11-27T11:23:20+00:00,visible,683.344,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-27T11:23:20+00:00,2026-11-28T00:00:00+00:00,terrain-blocked,756.656,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-02T00:00:00+00:00,2026-12-02T15:34:52+00:00,terrain-blocked,934.868,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-02T15:34:52+00:00,2026-12-03T00:00:00+00:00,below-tangent,505.132,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-12T00:00:00+00:00,2026-12-12T02:10:09+00:00,below-tangent,130.156,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-12T02:10:09+00:00,2026-12-13T00:00:00+00:00,terrain-blocked,1309.844,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-16T00:00:00+00:00,2026-12-16T00:18:28+00:00,terrain-blocked,18.477,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-16T00:18:28+00:00,2026-12-17T00:00:00+00:00,visible,1421.523,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-20T00:00:00+00:00,2026-11-20T11:28:58+00:00,visible,688.983,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-20T11:28:58+00:00,2026-11-21T00:00:00+00:00,terrain-blocked,751.017,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-25T00:00:00+00:00,2026-11-25T01:08:47+00:00,terrain-blocked,68.788,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-25T01:08:47+00:00,2026-11-26T00:00:00+00:00,visible,1371.212,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-26T00:00:00+00:00,2026-11-26T14:33:07+00:00,visible,873.12,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-26T14:33:07+00:00,2026-11-27T00:00:00+00:00,terrain-blocked,566.88,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,terrain-blocked,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-30T00:00:00+00:00,2026-11-30T07:15:02+00:00,terrain-blocked,435.039,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-30T07:15:02+00:00,2026-12-01T00:00:00+00:00,below-tangent,1004.961,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-10T00:00:00+00:00,2026-12-10T18:23:40+00:00,below-tangent,1103.678,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-10T18:23:40+00:00,2026-12-11T00:00:00+00:00,visible-below-tangent,336.322,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,visible-below-tangent,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-12T00:00:00+00:00,2026-12-12T01:25:35+00:00,visible-below-tangent,85.585,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-12T01:25:35+00:00,2026-12-13T00:00:00+00:00,visible,1354.415,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,2,2,JPL Horizons + LOLA
+nobile,flat,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-11-15T00:00:00+00:00,2026-11-15T01:12:57+00:00,below-tangent,72.96,5,2,JPL Horizons
+nobile,flat,earth,2026-11-15T01:12:57+00:00,2026-11-16T00:00:00+00:00,visible,1367.04,5,2,JPL Horizons
+nobile,flat,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-02T00:00:00+00:00,2026-12-02T15:34:52+00:00,visible,934.868,5,2,JPL Horizons
+nobile,flat,earth,2026-12-02T15:34:52+00:00,2026-12-03T00:00:00+00:00,below-tangent,505.132,5,2,JPL Horizons
+nobile,flat,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-12T00:00:00+00:00,2026-12-12T02:10:09+00:00,below-tangent,130.158,5,2,JPL Horizons
+nobile,flat,earth,2026-12-12T02:10:09+00:00,2026-12-13T00:00:00+00:00,visible,1309.842,5,2,JPL Horizons
+nobile,flat,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-11-30T00:00:00+00:00,2026-11-30T07:15:02+00:00,visible,435.039,5,2,JPL Horizons
+nobile,flat,sun,2026-11-30T07:15:02+00:00,2026-12-01T00:00:00+00:00,below-tangent,1004.961,5,2,JPL Horizons
+nobile,flat,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-12T00:00:00+00:00,2026-12-12T01:25:35+00:00,below-tangent,85.585,5,2,JPL Horizons
+nobile,flat,sun,2026-12-12T01:25:35+00:00,2026-12-13T00:00:00+00:00,visible,1354.415,5,2,JPL Horizons
+nobile,flat,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,flat,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons
+nobile,terrain,earth,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-15T00:00:00+00:00,2026-11-15T01:12:57+00:00,below-tangent,72.96,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-15T01:12:57+00:00,2026-11-16T00:00:00+00:00,terrain-blocked,1367.04,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-18T00:00:00+00:00,2026-11-18T20:47:27+00:00,terrain-blocked,1247.465,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-18T20:47:27+00:00,2026-11-19T00:00:00+00:00,visible,192.535,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-20T00:00:00+00:00,2026-11-21T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-25T00:00:00+00:00,2026-11-26T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-26T00:00:00+00:00,2026-11-27T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-27T00:00:00+00:00,2026-11-27T12:08:01+00:00,visible,728.018,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-27T12:08:01+00:00,2026-11-28T00:00:00+00:00,terrain-blocked,711.982,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-11-30T00:00:00+00:00,2026-12-01T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-02T00:00:00+00:00,2026-12-02T15:34:52+00:00,terrain-blocked,934.868,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-02T15:34:52+00:00,2026-12-03T00:00:00+00:00,below-tangent,505.132,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-10T00:00:00+00:00,2026-12-11T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-12T00:00:00+00:00,2026-12-12T02:10:09+00:00,below-tangent,130.158,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-12T02:10:09+00:00,2026-12-13T00:00:00+00:00,terrain-blocked,1309.842,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-15T00:00:00+00:00,2026-12-15T23:37:03+00:00,terrain-blocked,1417.065,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-15T23:37:03+00:00,2026-12-16T00:00:00+00:00,visible,22.935,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,earth,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-14T00:00:00+00:00,2026-11-15T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-15T00:00:00+00:00,2026-11-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-16T00:00:00+00:00,2026-11-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-17T00:00:00+00:00,2026-11-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-18T00:00:00+00:00,2026-11-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-19T00:00:00+00:00,2026-11-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-20T00:00:00+00:00,2026-11-20T11:28:58+00:00,visible,688.983,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-20T11:28:58+00:00,2026-11-21T00:00:00+00:00,terrain-blocked,751.017,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-21T00:00:00+00:00,2026-11-22T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-22T00:00:00+00:00,2026-11-23T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-23T00:00:00+00:00,2026-11-24T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-24T00:00:00+00:00,2026-11-25T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-25T00:00:00+00:00,2026-11-25T01:08:47+00:00,terrain-blocked,68.788,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-25T01:08:47+00:00,2026-11-26T00:00:00+00:00,visible,1371.212,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-26T00:00:00+00:00,2026-11-26T14:33:07+00:00,visible,873.12,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-26T14:33:07+00:00,2026-11-27T00:00:00+00:00,terrain-blocked,566.88,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-27T00:00:00+00:00,2026-11-28T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-28T00:00:00+00:00,2026-11-29T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-29T00:00:00+00:00,2026-11-30T00:00:00+00:00,terrain-blocked,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-30T00:00:00+00:00,2026-11-30T07:15:02+00:00,terrain-blocked,435.039,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-11-30T07:15:02+00:00,2026-12-01T00:00:00+00:00,below-tangent,1004.961,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-01T00:00:00+00:00,2026-12-02T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-02T00:00:00+00:00,2026-12-03T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-03T00:00:00+00:00,2026-12-04T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-04T00:00:00+00:00,2026-12-05T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-05T00:00:00+00:00,2026-12-06T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-06T00:00:00+00:00,2026-12-07T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-07T00:00:00+00:00,2026-12-08T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-08T00:00:00+00:00,2026-12-09T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-09T00:00:00+00:00,2026-12-10T00:00:00+00:00,below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-10T00:00:00+00:00,2026-12-10T18:23:40+00:00,below-tangent,1103.678,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-10T18:23:40+00:00,2026-12-11T00:00:00+00:00,visible-below-tangent,336.322,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-11T00:00:00+00:00,2026-12-12T00:00:00+00:00,visible-below-tangent,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-12T00:00:00+00:00,2026-12-12T01:25:35+00:00,visible-below-tangent,85.585,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-12T01:25:35+00:00,2026-12-13T00:00:00+00:00,visible,1354.415,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-13T00:00:00+00:00,2026-12-14T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-14T00:00:00+00:00,2026-12-15T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-15T00:00:00+00:00,2026-12-16T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-16T00:00:00+00:00,2026-12-17T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-17T00:00:00+00:00,2026-12-18T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-18T00:00:00+00:00,2026-12-19T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
+nobile,terrain,sun,2026-12-19T00:00:00+00:00,2026-12-20T00:00:00+00:00,visible,1440,5,2,JPL Horizons + LOLA
